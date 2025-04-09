@@ -13,3 +13,9 @@ User-Centric Design: Built with a focus on simplicity, ease of use, and personal
 Download Data set from this link:
 https://zenodo.org/records/4265096/files/books_1.Best_Books_Ever.csv?download=1
 
+Run evry Cell of IPYNB file to get:
+1)books_dict.pkl
+2)similarity.pkl
+
+Then run app.py in terminal : streamlit run app.py
+
