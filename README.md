@@ -10,3 +10,6 @@ Smart Filters: Offers recommendations filtered by genre, tone, and intensity of 
 
 User-Centric Design: Built with a focus on simplicity, ease of use, and personalized experience.
 
+Download Data set from this link:
+https://zenodo.org/records/4265096/files/books_1.Best_Books_Ever.csv?download=1
+
